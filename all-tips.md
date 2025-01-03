@@ -269,7 +269,7 @@
 > Tests that run with every build are much more effective than test plans that sit on a shelf. 
 
 > ### Coding Ain’t Done ’Til All the Tests Run
-’Nuff said. 
+> ’Nuff said. 
 
 > ### Use Saboteurs to Test Your Testing
 > Introduce bugs on purpose in a separate copy of the source to verify that testing will catch them. 
